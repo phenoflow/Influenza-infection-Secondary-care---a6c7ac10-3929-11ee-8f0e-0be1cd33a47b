@@ -1,0 +1,53 @@
+code,system
+1 E30,icd11
+1E30&XN5SG,icd11
+1 E30,icd11
+1E30&XN5SG,icd11
+1 E31,icd11
+1 E31,icd11
+1 E32,icd11
+1 E32,icd11
+1D01.00,icd11
+1G40&XN1P6,icd11
+XN1P6,icd11
+A41.3,icd10
+A49.2,icd10
+J14,icd10
+CA40.02,icd11
+CA40.12,icd11
+CA40.1Z,icd11
+J12.2,icd10
+CA42.3,icd11
+CA42.4,icd11
+J20.1,icd10
+J20.4,icd10
+QC01.8,icd11
+Z25.1,icd10
+487.1,icd9
+487.1,icd9
+487.8,icd9
+487.8,icd9
+488.0,icd9
+488.0,icd9
+488.1,icd9
+488.1,icd9
+488.8,icd9
+488.8,icd9
+J09,icd10
+J10,icd10
+J10.0,icd10
+J10.1,icd10
+J10.8,icd10
+J11,icd10
+J11.0,icd10
+J11.1,icd10
+J11.8,icd10
+J09,icd10
+J10,icd10
+J10.0,icd10
+J10.1,icd10
+J10.8,icd10
+J11,icd10
+J11.0,icd10
+J11.1,icd10
+J11.8,icd10
